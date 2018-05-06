@@ -16,6 +16,6 @@ R CMD INSTALL ~/Downloads/RQuantLib_0.4.4_R350.tgz
 Download & Install QuantLib 1.12 for Mac OSX
 https://drive.google.com/uc?id=1Z_qR0Ih2jCEAYAwR3sR1TE_dk7YaQ7TS&export=download
 ```
-sudo tar xzvf ql-1.12.tgz -C /usr/local
+sudo tar xzvf ~/Downloads/ql-1.12.tgz -C /usr/local
 ````
 
